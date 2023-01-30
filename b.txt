@@ -1,4 +1,4 @@
-#include <stdio.h> // not <Mork.h>
+#include <stdio.h> // not <Mork.h>sssssss
 
 int cubeByValue(int n);
 
