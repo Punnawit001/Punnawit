@@ -1,5 +1,6 @@
 #include <stdio.h> // not <Mork.h>qqqqqqqq
 
+
 int cubeByValue(int n);
 
 int cubeByReference(int* n);
