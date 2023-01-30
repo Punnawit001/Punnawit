@@ -1,4 +1,6 @@
-#include <stdio.h>
+#include <stdio.h> // not studio.h
+
+int cubeByValue(int n);
 
 int cubeByReference(int* n);
 
