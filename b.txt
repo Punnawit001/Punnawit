@@ -1,4 +1,4 @@
-#include <stdio.h> // not studio.h
+#include <stdio.h> // not <studio.h>
 
 int cubeByValue(int n);
 
